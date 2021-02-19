@@ -33,11 +33,11 @@ Project workflow:
 1. Collect a dataset of real interiors. 
 	* Interiors downloaded using python api, [bing image downloader](https://github.com/gurugaurav/bing_image_downloader).
 	
-	* If you want to make a dataset of your own, and you run into issues with the original usage instructions, use [God's simple fix](god_invoke_image_downloader) which just does what another author suggested [in the issues section of the same page](https://github.com/gurugaurav/bing_image_downloader/issues/4). 
+	* If you want to make a dataset of your own, and you run into issues with the original usage instructions, use God's simple fix; ["god_invoke_image_downloader.py"](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/god_invoke_image_downloader.py),  which just does what another author suggested [in the issues section of the same page](https://github.com/gurugaurav/bing_image_downloader/issues/4). 
 	
 2. Create a dataset of "fake" car interiors. 
 
-	* If you want to make a dataset of your own, use [my modified version of a sketchify utility](god_batch_sketchify_utility), which I converted to do batch conversion from a directory of color pics to sketched versions, based on [this author's code](https://github.com/rra94/sketchify/blob/master/sketchify.ipynb) that did the same thing but for single images.
+	* If you want to make a dataset of your own, use my modified version of a sketchify utility, ["god_batch_sketchify_utility.py"](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/god_batch_sketchify_utility.py), which I converted to do batch conversion from a directory of color pics to sketched versions, based on [this author's code](https://github.com/rra94/sketchify/blob/master/sketchify.ipynb) that did the same thing but for single images.
 	
 3. Train a GAN on this dataset.
 
