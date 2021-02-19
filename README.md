@@ -1,5 +1,5 @@
 
-I couldn't find an automated interior designer artificial intelligence solution, so I decided to experiment and try using generative adversarial neural networks.
+I couldn't find an automated/artificial intelligence car interior designer, so I decided to experiment and try using generative adversarial neural networks.
 
 For [my supercar 3d design concept "Aria Dio"](https://www.facebook.com/TheAriaDio), I had already modeled the interior manually in Rhino3d 7, but I was interested to see how well ai would tackle the task. I am reporting these early results of my initial trial in this github repository.
 
