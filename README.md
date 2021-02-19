@@ -18,7 +18,7 @@ Car interior imagined after 2000 epochs:
 
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_2000_epochs.png?raw=true)
 
-Starting to look like an interior, cCar interior imagined after 9000 epochs :)
+Starting to look like an interior, car interior imagined after 9000 epochs :)
 
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_9000_epochs.png?raw=true)
 
