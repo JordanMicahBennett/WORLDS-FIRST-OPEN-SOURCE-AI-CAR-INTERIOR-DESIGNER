@@ -6,16 +6,16 @@ For my [supercar design concept Aria Dio](https://www.facebook.com/TheAriaDio), 
 I expect more training time to generate higher resolution interiors, instead of the current somewhat hyper-artlike result.
 
 
-Interior imagined after 0 epochs:
+Car interior imagined after 0 epochs:
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_0_epochs.png?raw=true)
 
-Interior imagined after 200 epochs:
+Car interior imagined after 200 epochs:
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_200_epochs.png?raw=true)
 
-Interior imagined after 2000 epochs:
+Car interior imagined after 2000 epochs:
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_2000_epochs.png?raw=true)
 
-Interior imagined after 9000 epochs:
+Car interior imagined after 9000 epochs:
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_9000_epochs.png?raw=true)
 
 
