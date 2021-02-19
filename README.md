@@ -1,3 +1,4 @@
+
 I couldn't find an automated interior designer artificial intelligence solution, so I decided to experiment and try using generative adversarial neural networks.
 
 For my [supercar design concept Aria Dio](https://www.facebook.com/TheAriaDio), I had already modeled the interior manually in Rhino3d 7, but I was interested to see how well ai would tackle the task. I am reporting these early results of my initial trial in this github repository.
@@ -5,6 +6,17 @@ For my [supercar design concept Aria Dio](https://www.facebook.com/TheAriaDio), 
 I expect more training time to generate higher resolution interiors, instead of the current somewhat hyper-artlike result.
 
 
+![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_0_epochs.png?raw=true)
+after 0 epochs
+
+![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_200_epochs.png?raw=true)
+after 200 epochs
+
+![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_2000_epochs.png?raw=true)
+after 2000 epochs
+
+![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_9000_epochs.png?raw=true)
+after 9000 epochs
 
 
 Project mechanism:
