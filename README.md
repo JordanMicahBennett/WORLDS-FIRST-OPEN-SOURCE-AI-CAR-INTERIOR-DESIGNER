@@ -5,6 +5,8 @@ For [my supercar 3d design concept "Aria Dio"](https://www.facebook.com/TheAriaD
 
 I expect more training time to generate higher resolution interiors, instead of the current somewhat hyper-artlike result.
 
+Use case: This could eventually guide designers along, to create fresh/new interiors.
+
 
 Car interior imagined after 0 epochs:
 
