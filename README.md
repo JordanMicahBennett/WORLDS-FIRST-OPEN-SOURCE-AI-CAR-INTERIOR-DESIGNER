@@ -6,20 +6,21 @@ For my [supercar design concept Aria Dio](https://www.facebook.com/TheAriaDio), 
 I expect more training time to generate higher resolution interiors, instead of the current somewhat hyper-artlike result.
 
 
+Interior imagined after 0 epochs:
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_0_epochs.png?raw=true)
-after 0 epochs
 
+Interior imagined after 200 epochs:
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_200_epochs.png?raw=true)
-after 200 epochs
 
+Interior imagined after 2000 epochs:
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_2000_epochs.png?raw=true)
-after 2000 epochs
 
+Interior imagined after 9000 epochs:
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_9000_epochs.png?raw=true)
-after 9000 epochs
 
 
-Project mechanism:
+
+#Project mechanism:
 
 Given dataset of "fake" car interiors, as well as real car interiors, a generative adversarial neural network is trained for 9000 epochs to reasonably learn what real car interiors look like, by learning to construct them from this dataset pair of fakes/reals.
 
@@ -27,7 +28,7 @@ Given dataset of "fake" car interiors, as well as real car interiors, a generati
 
 
 
-Project workflow:
+#Project workflow:
 
 1. Collect a dataset of real interiors. 
 	* Interiors downloaded using python api, [bing image downloader](https://github.com/gurugaurav/bing_image_downloader).
