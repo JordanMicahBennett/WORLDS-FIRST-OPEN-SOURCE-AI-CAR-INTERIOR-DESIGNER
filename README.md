@@ -28,7 +28,7 @@ Given dataset of "fake" car interiors, as well as real car interiors, a generati
 
 
 
-#Project workflow:
+Project workflow:
 ======
 1. Collect a dataset of real interiors. 
 	* Interiors downloaded using python api, [bing image downloader](https://github.com/gurugaurav/bing_image_downloader).
