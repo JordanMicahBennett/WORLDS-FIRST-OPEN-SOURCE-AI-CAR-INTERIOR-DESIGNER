@@ -7,15 +7,19 @@ I expect more training time to generate higher resolution interiors, instead of 
 
 
 Car interior imagined after 0 epochs:
+
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_0_epochs.png?raw=true)
 
 Car interior imagined after 200 epochs:
+
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_200_epochs.png?raw=true)
 
 Car interior imagined after 2000 epochs:
+
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_2000_epochs.png?raw=true)
 
 Starting to look like an interior, cCar interior imagined after 9000 epochs :)
+
 ![Alt Text](https://github.com/JordanMicahBennett/WORLDS-FIRST-OPEN-SOURCE-AI-CAR-INTERIOR-DESIGNER/blob/main/showcase/imagined_interior_9000_epochs.png?raw=true)
 
 
